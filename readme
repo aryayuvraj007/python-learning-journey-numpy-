@@ -1,0 +1,24 @@
+# Python Learning Journey 🚀
+
+My daily learning journey toward Data Science, AI, and Machine Learning.
+
+## 📚 Topics I'm Learning
+
+- [x] Python Basics
+- [ ] NumPy
+- [ ] Pandas
+- [ ] Matplotlib
+- [ ] Machine Learning
+- [ ] PyTorch
+
+## 📅 Daily Progress
+
+### NumPy
+
+- Learning array creation and manipulation.
+- Practicing indexing, slicing, and array operations.
+- Uploading code examples and exercises regularly.
+
+## 🎯 Goal
+
+Learn by coding, practice consistently, and build real projects.
